@@ -1,0 +1,37 @@
+{
+  "id": "6877e398dcbac892128e449d",
+  "title": "SweatApp",
+  "description": "An all-inclusive course about designing, developing, and deploying SweatApp - a health and fitness mobile application",
+  "learningObjectives": [
+    "Understand basics of fitness and health",
+    "Design a user-friendly mobile app",
+    "Learn front-end and back-end development of a mobile app",
+    "Introduction to testing mobile applications",
+    "Deploying the mobile app"
+  ],
+  "finalProjectDetails": {
+    "overview": "For the final project, students will design, develop, test, and deploy their own fitness mobile application similar to SweatApp",
+    "planningResources": [
+      "App design sketch sheet",
+      "Front-end development resources",
+      "Back-end development resources",
+      "Testing methodologies",
+      "Deployment guide"
+    ],
+    "submissionInstructions": "Submit a link to the deployed app, along with its source code and a document outlining design choices, major functions, and testing results",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "_id": "6800a73454438765dcfd5e07",
+    "name": "Tammam Alwafai",
+    "image": "https://avatars.githubusercontent.com/u/47179662?v=4",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "createdAt": "2025-07-16T17:38:32.778Z",
+  "updatedAt": "2025-07-16T17:38:32.778Z"
+}
